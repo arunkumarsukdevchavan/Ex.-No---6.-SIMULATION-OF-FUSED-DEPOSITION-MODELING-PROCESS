@@ -21,9 +21,9 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/e05c97f8-b035-4e4d-86e8-f91a73aa95a8)
 
 ## Output:
-
-### Name:
-### Register Number:
+![output](https://user-images.githubusercontent.com/118707073/240139214-8c4095b5-da27-44da-8678-eda6d37bd09f.png)
+### Name: ARUN KUMAR SUKDEV CHAVAN
+### Register Number: 212222230013
 
 ## Result:
-### Thus the simulation on the FDM process is completed & prototyping process is studied.
+Thus the simulation on the FDM process is completed & prototyping process is studied.
